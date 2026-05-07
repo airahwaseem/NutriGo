@@ -1,0 +1,1 @@
+NutriGo is a budget-friendly food finder app integrated with a calorie tracker, designed using Kotlin language to help users make healthier food choices while staying within their daily calorie and spending limits.The app includes features like user authentication,personalized profile setup,calorie tracking, meal logging, and nearby café/restaurant discovery with price ranges. 
